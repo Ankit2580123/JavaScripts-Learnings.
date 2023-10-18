@@ -1,0 +1,12 @@
+{
+                    "Name":"Ankit Kumar",
+                    "Age":23,
+                    "Branch":"CSE",
+                    "College":"RVSCET",
+                    "Languages":["C++","Pyhton","JavaScript","CSS"],
+                    "Address":{
+                                        "city":"Bokaro",
+                                        "state":"Jharkhand",
+                                        "pincode":825102
+                    }
+}
